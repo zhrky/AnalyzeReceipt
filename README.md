@@ -5,6 +5,7 @@ Using the instructions here, you can analyze your own receipts using the Azure D
 ## Prerequisites
 - **Azure Document Intelligence** resource
 - PowerApps & PowerAutomate Account
+  
 **Note** : For Power Automate & Power Apps free trial enough
 
 ## Step 1: 
