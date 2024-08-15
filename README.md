@@ -1,6 +1,6 @@
 # AnalyzeReceipt
 
-Buradaki instructionları kullanarak Kendi receiptlerinizi Azure Document Intelligence servisini, PowerApps ve PowerAutomate kullanarak analiz edebilirsiniz.
+Using the instructions here, you can analyze your own receipts using the Azure Document Intelligence service, PowerApps, and PowerAutomate.
 
 ## Prerequisites
 - **Azure Document Intelligence** resource
@@ -15,7 +15,9 @@ Add camera and button from the Insert section.
 ![image](https://github.com/user-attachments/assets/90d0afa3-d0dc-48a8-ac98-47e30579b68a)
 a. Change the false function of the button to **UpdateContext({locPhoto:Camera1.Stream})**.
   ![image](https://github.com/user-attachments/assets/9472f771-6b8f-4723-b400-aadb6ace6086)
+  
 b. You can change the name of the button to **Take photo** from the right panel.
+
 c. Make the **StreamRate** of **Camera1** **1000** from the advanced section of the right panel.
 ![image](https://github.com/user-attachments/assets/052af6fa-3f71-493f-938b-5f0fe9a40041)
 
