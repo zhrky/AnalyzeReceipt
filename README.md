@@ -35,6 +35,7 @@ Change the function of **Camera1** to **locDevice**.
 
 ## Step 5:
 Add **Image** from the **Insert** section.
+
 ![image](https://github.com/user-attachments/assets/1b0aaa06-9074-4c8d-9cbe-a9dafcba2dea)
 
 a. Change the function from **SampleImage** to **locPhoto**. (We are changing it with the variable we defined before.)
